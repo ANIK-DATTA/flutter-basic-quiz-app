@@ -36,14 +36,14 @@ class _MyAppState extends State<MyApp> {
         body: Column(
           children: [
             Question(questions[questionIndex]),
-            RaisedButton(child: Text('Male'), onPressed: answerQuestion),
+            RaisedButton(child: Text('Change Ques'), onPressed: answerQuestion),
             RaisedButton(
-                child: Text('Female'), onPressed: () => print("Female")),
+                child: Text('option 1'), onPressed: () => print("Option 1")),
             RaisedButton(
-                child: Text('Others'),
+                child: Text('Option 2'),
                 onPressed: () {
                   // () is Anonymous function
-                  print('Others');
+                  print('Option 2');
                 }),
           ],
         ),
