@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=C:\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\HOME\Desktop\Projects\flutter\project1
+FLUTTER_APPLICATION_PATH=C:\Users\HOME\Desktop\Projects\flutter\Quiz_App
 FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build\ios
